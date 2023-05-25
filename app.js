@@ -1333,10 +1333,10 @@ const questions = [
 		id: 134,
 		question:'&nbsp Radio Button Kelimesinin Anlamı Nedir?',
 		options: [ 
-			{id: 1, text: '2. soru a', correct: false,},
-			{id: 2, text: '2. soru b', correct: true,},
-			{id: 3, text: '2. soru c', correct: false,},
-			{id: 4, text: '2. soru d doğru', correct: false,},
+			{id: 1, text: 'Bu Soruya Kadar', correct: false,},
+			{id: 2, text: 'Cevap Bu', correct: true,},
+			{id: 3, text: 'Geldiysen Teşekkürler', correct: false,},
+			{id: 4, text: 'Eline Sağlık', correct: false,},
 		],
 	},
   {
