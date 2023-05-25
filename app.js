@@ -1888,7 +1888,7 @@ const questions = [
 			{id: 1, text: 'Versiyon', correct: false,},
 			{id: 2, text: 'Versiyon Sistemi', correct: false,},
 			{id: 3, text: 'Sence De Cevap Belli Değil Mi? :)', correct: false,},
-			{id: 4, text: 'Verisoyon Kontrol', correct: true,},
+			{id: 4, text: 'Versiyon Kontrol', correct: true,},
 		],
 	},
   {
