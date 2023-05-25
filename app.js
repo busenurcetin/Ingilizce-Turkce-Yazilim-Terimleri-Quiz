@@ -84,7 +84,7 @@ const questions = [
 		question:'&nbsp Install Kelimesinin Anlamı Nedir?',
 		options: [ 
 			{id: 1, text: 'Kaldırmak', correct: false,},
-			{id: 2, text: 'İndirmek', correct: true,},
+			{id: 2, text: 'Kurmak', correct: true,},
 			{id: 3, text: 'Denemek', correct: false,},
 			{id: 4, text: 'Sürüm', correct: false,},
 		],
