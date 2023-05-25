@@ -163,10 +163,10 @@ const questions = [
 		id: 17,
 		question:'&nbsp Autocomplete Kelimesinin Anlamı Nedir?',
 		options: [ 
-			{id: 1, text: 'Otomatik Tamamlama', correct: false,},
+			{id: 1, text: 'Otomatik Tamamlama', correct: true,},
 			{id: 2, text: 'Otomasyon', correct: false,},
 			{id: 3, text: 'Oto Tamamlayamama', correct: false,},
-			{id: 4, text: 'Otomatik', correct: true,},
+			{id: 4, text: 'Otomatik', correct: false,},
 		],
 	},
   {
