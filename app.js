@@ -123,7 +123,7 @@ const questions = [
 		id: 13,
 		question:'&nbsp Argument Kelimesinin Anlamı Nedir?',
 		options: [ 
-			{id: 1, text: 'Değişken', correct: true,},
+			{id: 1, text: 'Argüman', correct: true,},
 			{id: 2, text: 'Sabit', correct: false,},
 			{id: 3, text: 'Bağlayıcı', correct: false,},
 			{id: 4, text: 'Fonksiyon', correct: false,},
