@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Türkçe-İngilizce Yazılım Terimleri Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="./images/quizapp2.webp" class="transparent" alt="">
+      <!-- START -->
+      <div id="quiz-screen" class="app" >
+        <h1> Türkçe - İngilizce Yazılım Terimleri Testi  </h1>
+        <br>
+        <div id="status-bar"></div> <!-- Durum çubuğu alanı -->
+
+        <div class="quiz">
+            <img src="./images/software-test-gif.gif" class="gif" alt="GIF">
+
+            <h2 id="question">
+                QUESTION
+            </h2>
+            <div id="answer-buttons">
+                <button class="btn"> Cevap 1</button>
+                <button class="btn"> Cevap 2</button>
+                <button class="btn"> Cevap 3</button>
+                <button class="btn"> Cevap 4</button>
+            </div>
+            <audio id="correct-sound" src="./audio/rightanswer.mp3"></audio>
+            <audio id="incorrect-sound" src="./audio/wronganswer.mp3"></audio>
+            <!-- Next Button For Next Question -->
+            <button id="next-btn">
+                Sonraki Soru
+            </button>
+            <button id="pre-btn" onclick="handlePreviousButton()">
+                Önceki Soru
+            </button>
+            <button id="finish-btn">
+                Testi Bitir
+            </button>
+            <button id="play-again-btn" class="btn btn-success" style="display: block;" onclick="playAgain()">
+                Yeniden Oyna
+            </button>
+            <button id="continue-btn" class="btn btn-success" style="display: none;">
+                Kaldığın Yerden Devam Et
+            </button>
+            <br>
+            <br>
+            <hr>
+            <br>
+            <div id="result"></div>
+            <br>
+        </div>
+
+    </div>
+    <br>
+    <br>
+    <br>
+
+
+    <script src="app.js"></script>
+</body>
+</html>
