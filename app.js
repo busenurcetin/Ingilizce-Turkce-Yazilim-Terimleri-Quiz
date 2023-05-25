@@ -974,8 +974,8 @@ const questions = [
 		question:'&nbsp Back-End Kelimesinin Anlamı Nedir?',
 		options: [ 
 			{id: 1, text: 'Ön Uç Geliştirici', correct: false,},
-			{id: 2, text: 'Arka Uç Geliştirici', correct: true,},
-			{id: 3, text: 'Arka Uç', correct: false,},
+			{id: 2, text: 'Arka Uç Geliştirici', correct: false,},
+			{id: 3, text: 'Arka Uç', correct: true,},
 			{id: 4, text: 'Ön Uç', correct: false,},
 		],
 	},
@@ -1315,7 +1315,7 @@ const questions = [
 		options: [ 
 			{id: 1, text: 'Eklemek', correct: false,},
 			{id: 2, text: 'Otomasyon', correct: false,},
-			{id: 3, text: 'Optimizayson', correct: true,},
+			{id: 3, text: 'Optimizasyon', correct: true,},
 			{id: 4, text: 'Otomatik', correct: false,},
 		],
 	},
@@ -1816,9 +1816,9 @@ const questions = [
 		question:'&nbsp Usability Kelimesinin Anlamı Nedir?',
 		options: [ 
 			{id: 1, text: 'Kullanılabilirlik', correct: true,},
-			{id: 2, text: '2. soru b', correct: false,},
-			{id: 3, text: '2. soru c', correct: false,},
-			{id: 4, text: '2. soru d doğru', correct: false,},
+			{id: 2, text: 'JOKER', correct: false,},
+			{id: 3, text: 'JOKER', correct: false,},
+			{id: 4, text: 'JOKER', correct: false,},
 		],
 	},
   {
