@@ -8,6 +8,11 @@
 Bu proje yazılıma yeni başlayan ya da bir süredir sektörün içinde olup yazılım terimlerine hakim olmadığını düşünenler için oluşturulmuştur. Hayli basit bir test olmasına rağmen bu konuda eksik olanlara yardımcı olacağını umuyorum. Test 200 sorudan oluşmakta ve süre sınır olmamaktadır. Başarılar.
 <br>
 
+## Katkı
+
+Bu projeye olan katkısı için ve ben hatalarla boğuşurken beni yalnız bırakmadığından Birol hocama çok teşekkür ederim. Emeğinize sağlık hocam.
+- [Birol Yılmaz](https://github.com/yearmfew)
+
 ## Destek Ve İletişim
 
 Destek ve iletişim için Twitter veya LinkedIn hesabımdan bana ulaşabilirsiniz.
