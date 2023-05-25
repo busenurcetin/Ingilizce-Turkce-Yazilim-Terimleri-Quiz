@@ -1634,7 +1634,7 @@ const questions = [
 		id: 164,
 		question:'&nbsp Stage Kelimesinin Anlamı Nedir?',
 		options: [ 
-			{id: 1, text: 'Mikrafon', correct: false,},
+			{id: 1, text: 'Mikrofon', correct: false,},
 			{id: 2, text: 'Sahne', correct: true,},
 			{id: 3, text: 'Konuşmacı', correct: false,},
 			{id: 4, text: 'Eğitimci', correct: false,},
