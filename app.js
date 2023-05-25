@@ -73,10 +73,10 @@ const questions = [
 		id: 8,
 		question:'&nbsp Anchor Kelimesinin Anlamı Nedir?',
 		options: [ 
-			{id: 1, text: 'Çapa', correct: false,},
+			{id: 1, text: 'Çapa', correct: true,},
 			{id: 2, text: 'Meta', correct: false,},
 			{id: 3, text: 'Bilmiyorum', correct: false,},
-			{id: 4, text: 'Arkaplan', correct: true,},
+			{id: 4, text: 'Arkaplan', correct: false,},
 		],
 	},
   {
