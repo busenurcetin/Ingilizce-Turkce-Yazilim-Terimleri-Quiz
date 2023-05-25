@@ -743,10 +743,10 @@ const questions = [
 		id: 75,
 		question:'&nbsp Enable Kelimesinin Anlamı Nedir?',
 		options: [ 
-			{id: 1, text: '2. soru a', correct: false,},
-			{id: 2, text: '2. soru b', correct: false,},
-			{id: 3, text: '2. soru c', correct: false,},
-			{id: 4, text: '2. soru d doğru', correct: true,},
+			{id: 1, text: 'Ayarlar', correct: false,},
+			{id: 2, text: 'İzinler', correct: false,},
+			{id: 3, text: 'İzin Vermemek', correct: false,},
+			{id: 4, text: 'İzin Vermek', correct: true,},
 		],
 	},
   {
